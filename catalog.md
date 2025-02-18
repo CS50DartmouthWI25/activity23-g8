@@ -8,7 +8,7 @@
 
 [Geography](geography.md) - Department chair: <github username>
 
-[History](history.md) - Department chair: <sophp516>
+[History](history.md) - Department chair: sophp516
 
 [Mathematics](math.md) - Department chair: <github username>
 
