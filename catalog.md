@@ -10,6 +10,6 @@
 
 [History](history.md) - Department chair: sophp516
 
-[Mathematics](math.md) - Department chair: <Alda-Zeneli>
+[Mathematics](math.md) - Department chair: Alda-Zeneli
 
 ---
