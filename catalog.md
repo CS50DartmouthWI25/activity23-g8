@@ -10,7 +10,6 @@
 
 [History](history.md) - Department chair: <github username>
 
-[Mathematics](math.md) - Department chair: <Alda-Zeneli>
-hhuiiii
+[Mathematics](math.md) - Department chair: Alda-Zeneli
 
 ---
